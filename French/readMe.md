@@ -57,7 +57,6 @@
 <div>
 
 🇬🇧 [English](./readMe.md)
-🇫🇷 [French](./French/readMe.md)
 🇪🇸 [Spanish](./Spanish/readme.md)
 🇮🇹 [Italian](./Italian/readMe.md)Setup
 🇷🇺 [Russian](./RU/README.md)
@@ -67,7 +66,7 @@
 🇻🇳 [Vietnamese](./Vietnamese/README.md)
 🇵🇱 [Polish](./Polish/readMe.md)
 🇧🇷 [Portuguese](./Portuguese/readMe.md)
-
+🇫🇷 [French](./French/readMe.md)
 
 </div>
 
