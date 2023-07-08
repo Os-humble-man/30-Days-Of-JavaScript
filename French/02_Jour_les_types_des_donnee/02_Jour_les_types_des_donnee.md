@@ -340,10 +340,10 @@ Output in console:
 I hope everyone is enjoying the 30 Days Of JavaScript challenge.
 Do you ?
 Days  Topics  Exercises
-Day 1 3 5
-Day 2 3 5
-Day 3 3 5
-Day 4 3 5
+Jour 1 3 5
+Jour 2 3 5
+Jour 3 3 5
+Jour 4 3 5
 This is a backslash  symbol (\)
 In every programming language it starts with "Hello, World!"
 In every programming language it starts with 'Hello, World!'
